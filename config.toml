@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Data R beautiful""
+title = "Data R beautiful"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
